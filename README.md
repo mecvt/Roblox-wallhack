@@ -15,4 +15,4 @@ RAM: 1GB+ (4GB recommended)
 GPU: DirectX 9+
 
 ## 🚀 Get Roblox wallhack
-[![Download](https://img.shields.io/badge/Download_Roblox-00A2FF?style=for-the-badge&logo=roblox)](https://www.roblox.com/download)
+[![Download Roblox Player](https://img.shields.io/badge/Official_Download-00A2FF?style=for-the-badge&logo=roblox)](https://www.roblox.com/download)
