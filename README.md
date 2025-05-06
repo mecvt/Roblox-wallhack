@@ -13,5 +13,6 @@ OS: Windows 7+ / iOS 11+ / Android 5+
 CPU: 1.6 GHz (PC) / ARMv7 (Mobile)
 RAM: 1GB+ (4GB recommended)
 GPU: DirectX 9+
+
 ## 🚀 Get Roblox wallhack
 [![Download](https://img.shields.io/badge/Download_Roblox-00A2FF?style=for-the-badge&logo=roblox)](https://www.roblox.com/download)
