@@ -17,4 +17,4 @@ CPU: 1.6 GHz (PC) / ARMv7 (Mobile)
 RAM: 1GB+ (4GB recommended)
 GPU: DirectX 9+
 
-## 📅 **Last Updated**: March 2025
+- ## 📅 **Last Updated**: March 2025
